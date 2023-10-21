@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+}
+
+.deneme{
+    position: relative;
+}
+.yazi{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.info{
+    background-color: #cff4fc;
+    width: 80%;
+}
